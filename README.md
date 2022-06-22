@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BleuHere
-- 👀 I’m interested in sewing, knitting and equality. 
 - 🌱 I’m currently a student at Ensiral DevAcademy in Aotearoa NZ. 
-- 📫 How to reach me ... (blog coming soon)
+- 📫 I'm building a blog! http://BleuHere.github.io
