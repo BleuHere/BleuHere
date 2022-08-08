@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BleuHere
-- 🌱 I’m currently a student at Ensiral DevAcademy in Aotearoa NZ. 
+- 🌱 I’m currently a student at Enspiral DevAcademy in Aotearoa NZ. 
 - 📫 I'm building a blog! http://BleuHere.github.io
